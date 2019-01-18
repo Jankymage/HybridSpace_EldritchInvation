@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Empty1_B_2" size="0.100000 0.019983" />
+    <ImageTarget name="Summon_R_3" size="0.100000 0.019983" />
+    <ImageTarget name="Attack_R_4" size="0.100000 0.019983" />
+    <ImageTarget name="Defend_R_5" size="0.100000 0.019983" />
+    <ImageTarget name="Bless_R_6" size="0.100000 0.019983" />
+    <ImageTarget name="Capture_R_7" size="0.100000 0.019983" />
+    <ImageTarget name="Empty_R_8" size="0.100000 0.019983" />
+    <ImageTarget name="Flood_B_9" size="0.100000 0.019983" />
+    <ImageTarget name="Empty_R_10" size="0.100000 0.019983" />
+    <ImageTarget name="FireHazard_B_11" size="0.100000 0.019983" />
+    <ImageTarget name="Forest_B_12" size="0.100000 0.019983" />
+    <ImageTarget name="Chomp_B_13" size="0.100000 0.019983" />
+    <ImageTarget name="Summon_B_14" size="0.100000 0.019983" />
+    <ImageTarget name="Attack_B_15" size="0.100000 0.019983" />
+    <ImageTarget name="Bless_B_17" size="0.100000 0.019983" />
+    <ImageTarget name="Defend_B_16" size="0.100000 0.019983" />
+    <ImageTarget name="Capture_B_18" size="0.100000 0.019983" />
+    <ImageTarget name="Thunder_R_20" size="0.100000 0.019983" />
+    <ImageTarget name="Flood_R_21" size="0.100000 0.019983" />
+    <ImageTarget name="FireHazard_R_22" size="0.100000 0.019983" />
+    <ImageTarget name="Forest_R_23" size="0.100000 0.019983" />
+    <ImageTarget name="LaserEye_R_24" size="0.100000 0.019983" />
+    <ImageTarget name="Thunder_B_1" size="0.100000 0.019983" />
+    <ImageTarget name="Terrainjpg" size="0.200000 0.141414" />
+    <ImageTarget name="TrackBarMap" size="0.150000 0.019977" />
+    <ImageTarget name="TrackBar19" size="0.100000 0.019983" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="EyeSummon2" size="0.770000 1.160506" />
+    <ImageTarget name="EyePass" size="0.770000 1.160506" />
+    <ImageTarget name="EyeCapture" size="0.770000 1.160506" />
+    <ImageTarget name="EyeFire" size="0.770000 1.160506" />
+    <ImageTarget name="TeethSummon2" size="0.770000 1.160506" />
+    <ImageTarget name="TeethAttack" size="0.770000 1.160506" />
+    <ImageTarget name="TeethFire" size="0.770000 1.160506" />
+    <ImageTarget name="TeethFlood" size="0.770000 1.160506" />
+    <ImageTarget name="TeethForest" size="0.770000 1.160506" />
+    <ImageTarget name="TeethLightningBolt" size="0.770000 1.160506" />
+    <ImageTarget name="TeethCapture" size="0.770000 1.160506" />
+    <ImageTarget name="TeethSummon" size="0.770000 1.160506" />
+    <ImageTarget name="TeethDefend" size="0.770000 1.160506" />
+    <ImageTarget name="TeethPass" size="0.770000 1.160506" />
+    <ImageTarget name="EyeAttack" size="0.770000 1.160506" />
+    <ImageTarget name="EyeDefend" size="0.770000 1.160506" />
+    <ImageTarget name="EyeFlood" size="0.770000 1.160506" />
+    <ImageTarget name="EyeSummon" size="0.770000 1.160506" />
+    <ImageTarget name="EyeForest" size="0.770000 1.160506" />
+    <ImageTarget name="EyeLightningBolt" size="0.770000 1.160506" />
+    <ImageTarget name="EyeLaserEye" size="0.770000 1.160506" />
+    <ImageTarget name="TeethChomp" size="0.770000 1.160506" />
+    <ImageTarget name="Terrain" size="2.970000 2.100133" />
+  </Tracking>
+</QCARConfig>

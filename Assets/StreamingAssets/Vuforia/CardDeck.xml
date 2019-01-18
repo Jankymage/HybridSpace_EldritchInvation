@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Terrainjpg_scaled" size="0.300000 0.212109" />
+    <ImageTarget name="Coins" size="0.060000 0.083750" />
+    <ImageTarget name="BoxFront" size="0.060000 0.093697" />
+    <ImageTarget name="BoxBack" size="0.060000 0.090433" />
+    <ImageTarget name="schoppenVrouw" size="0.060000 0.094443" />
+    <ImageTarget name="schoppenHeer" size="0.060000 0.091807" />
+    <ImageTarget name="schoppenBoer" size="0.060000 0.092489" />
+    <ImageTarget name="schoppenAas" size="0.060000 0.091850" />
+    <ImageTarget name="schoppen10" size="0.060000 0.092628" />
+    <ImageTarget name="schoppen9" size="0.060000 0.093636" />
+    <ImageTarget name="schoppen8" size="0.060000 0.094181" />
+    <ImageTarget name="schoppen7" size="0.060000 0.092432" />
+    <ImageTarget name="schoppen6" size="0.060000 0.092066" />
+    <ImageTarget name="schoppen5" size="0.060000 0.091622" />
+    <ImageTarget name="schoppen4" size="0.060000 0.092545" />
+    <ImageTarget name="schoppen3" size="0.060000 0.093050" />
+    <ImageTarget name="schoppen2" size="0.060000 0.092530" />
+    <ImageTarget name="ruitenVrouw" size="0.060000 0.092859" />
+    <ImageTarget name="ruitenHeer" size="0.060000 0.091754" />
+    <ImageTarget name="ruitenBoer" size="0.060000 0.092670" />
+    <ImageTarget name="ruitenAas" size="0.060000 0.093041" />
+    <ImageTarget name="ruiten10" size="0.060000 0.092968" />
+    <ImageTarget name="ruiten9" size="0.060000 0.090762" />
+    <ImageTarget name="ruiten8" size="0.060000 0.091707" />
+    <ImageTarget name="ruiten7" size="0.060000 0.091988" />
+    <ImageTarget name="ruiten6" size="0.060000 0.093567" />
+    <ImageTarget name="ruiten5" size="0.060000 0.090671" />
+    <ImageTarget name="ruiten4" size="0.060000 0.091612" />
+    <ImageTarget name="ruiten3" size="0.060000 0.091254" />
+    <ImageTarget name="ruiten2" size="0.060000 0.092349" />
+    <ImageTarget name="klaverenVrouw" size="0.060000 0.092072" />
+    <ImageTarget name="klaverenHeer" size="0.060000 0.092571" />
+    <ImageTarget name="klaverenBoer" size="0.060000 0.092294" />
+    <ImageTarget name="klaverenAas" size="0.060000 0.092204" />
+    <ImageTarget name="klaveren10" size="0.060000 0.092301" />
+    <ImageTarget name="klaveren9" size="0.060000 0.090811" />
+    <ImageTarget name="klaveren8" size="0.060000 0.091654" />
+    <ImageTarget name="klaveren7" size="0.060000 0.092066" />
+    <ImageTarget name="klaveren6" size="0.060000 0.092364" />
+    <ImageTarget name="klaveren5" size="0.060000 0.092785" />
+    <ImageTarget name="klaveren4" size="0.060000 0.091518" />
+    <ImageTarget name="klaveren3" size="0.060000 0.091659" />
+    <ImageTarget name="klaveren2" size="0.060000 0.092294" />
+    <ImageTarget name="joker" size="0.060000 0.092391" />
+    <ImageTarget name="info" size="0.060000 0.092432" />
+    <ImageTarget name="hartenVrouw" size="0.060000 0.092719" />
+    <ImageTarget name="hartenHeer" size="0.060000 0.092703" />
+    <ImageTarget name="hartenBoer" size="0.060000 0.091118" />
+    <ImageTarget name="hartenAas" size="0.060000 0.092927" />
+    <ImageTarget name="harten10" size="0.060000 0.091522" />
+    <ImageTarget name="harten9" size="0.060000 0.091850" />
+    <ImageTarget name="harten8" size="0.060000 0.092801" />
+    <ImageTarget name="harten7" size="0.060000 0.092239" />
+    <ImageTarget name="harten6" size="0.060000 0.092204" />
+    <ImageTarget name="harten5" size="0.060000 0.090893" />
+    <ImageTarget name="harten4" size="0.060000 0.092211" />
+    <ImageTarget name="harten3" size="0.060000 0.092294" />
+    <ImageTarget name="harten2" size="0.060000 0.094509" />
+  </Tracking>
+</QCARConfig>
